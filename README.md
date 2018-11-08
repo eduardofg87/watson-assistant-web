@@ -31,7 +31,7 @@ Por último, teremos que linkar as nossas credenciais, no front end. Para isso c
 E adicione as credenciais que copiamos lá no ítem 9:
 
 ### 6. Substituir as credenciais
-![Credenciais2](https://github.com/pedrohlcastro/watson-assistant/raw/master/print/tutorial-chatbot-19.png)
+![Credenciais2](https://raw.githubusercontent.com/pedrohlcastro/watson-assistant-web/master/print/tutorial-chatbot-19.png)
 
 Agora é só testar !!
 
